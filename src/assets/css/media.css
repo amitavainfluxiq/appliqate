@@ -1,0 +1,840 @@
+@media only screen and (max-width: 1800px) {
+    .services_banner {
+        background-position: -50px top;
+    }
+
+}
+
+@media only screen and (max-width: 1740px) {
+
+    .compaffiliates_newadblock3{ background-position: -80px top;}
+}
+
+@media only screen and (max-width: 1700px) {
+    .services_banner {
+        background-position: -160px top;
+    }
+
+}
+
+
+@media only screen and (max-width: 1600px) {
+    .compaffiliates_newadblock2{ background-position: -80px top;}
+
+    .compaffiliates_newadblock1 .mat-card-subtitle { padding: 20px;}
+    .compaffiliates_newadblock2 .mat-card-subtitle { padding: 20px;}
+    .compaffiliates_newadblock3 .mat-card-subtitle { padding: 20px;}
+    .compaffiliates_newadblock4 .mat-card-subtitle { padding: 20px;}
+
+    .as_bannermainwrapper {
+        background-position: 40% bottom;
+    }
+
+}
+
+
+@media only screen and (max-width: 1590px) {
+    .home_block7_wrapper{ width: 1400px;}
+    .home_block7_wrapper ul li{ width: 348px;}
+
+    .services_banner {
+        background-position: -250px top;
+    }
+
+
+    .compaffiliates_newadblock3 {
+        background-position: -170px top;
+    }
+
+    .compaffiliates_newadblock2 {
+        background-position: -160px top;
+    }
+
+    .compaffiliates_newadblock4 {
+        background-position: -160px top;
+    }
+
+
+}
+
+@media only screen and (max-width: 1480px) {
+
+    .as_bannermainwrapper.as_compaffibannermainwrapper { background-position: -240px 0;}
+
+
+    .contact_banner {
+        background-position: -270px top;
+    }
+
+    .services_banner {
+        background-position: -300px top;
+    }
+
+
+
+    .home_banner{ background-position: left top;}
+
+    .home_banner_wrapper{ width: 96%;}
+
+}
+
+@media only screen and (max-width: 1440px) {
+    .services_banner {
+        background-position: -210px top;
+    }
+}
+
+
+
+@media only screen and (max-width: 1420px) {
+    .home_block7_wrapper{ width: 1300px;}
+    .home_block7_wrapper ul li{ width: 323px; height: 540px;}
+
+    .home_block7_footer_left{ display: block; float: none;  width: 179px; margin-left:auto; margin-right: auto; }
+    .home_block7_footer_right{ display: block; float: none; margin-left:auto; margin-right: auto;}
+}
+
+@media only screen and (max-width: 1400px) {
+
+    .contact_banner {
+        background-position: -370px top;
+    }
+
+
+
+}
+
+@media only screen and (max-width: 1380px) {
+
+    .services_banner {
+        background-position: -240px top;
+    }
+}
+
+
+@media only screen and (max-width: 1360px) {
+    .home_banner {
+        background-position: 31% top;
+    }
+
+    .home_block2_wrapper{ width: 90%;}
+
+    .home_block2_left{ width: 44%;  }
+
+
+    .home_block2_right{ width: 55%;  }
+
+    .home_block4_wrapper{ width: 90%;}
+}
+
+
+@media only screen and (max-width: 1340px) {
+
+    .services_banner {
+        background-position: -290px top;
+    }
+
+    .compaffiliates_newadblock3 {
+        background-position: -190px top;
+    }
+
+    .compaffiliates_newadblock2 {
+        background-position: -180px top;
+    }
+
+    .compaffiliates_newadblock4 {
+        background-position: -170px top;
+    }
+}
+
+
+
+@media only screen and (max-width: 1320px) {
+    .home_block7_wrapper{ width: 1200px;}
+    .home_block7_wrapper ul li{ width: 298px; }
+
+    .services_block1_wrapper img{  margin-right: 0px;}
+
+}
+
+
+@media only screen and (max-width: 1300px) {
+
+    .contact_banner {
+        background-position: -470px top;
+    }
+
+    .services_banner {
+        background-position: -320px top;
+    }
+
+}
+
+
+@media only screen and (max-width: 1280px) {
+
+    .as_bannermainwrapper.as_compaffibannermainwrapper { background-position: -340px 0;}
+
+    .compaffiliates_newadblock3 {
+        background-position: -220px top;
+    }
+
+    .compaffiliates_newadblock2 {
+        background-position: -220px top;
+    }
+
+    .compaffiliates_newadblock4 {
+        background-position: -180px top;
+    }
+
+    .compaffiliates_newadblock1 {
+        background-position: -100px top;
+    }
+
+    .compaffiliates_newadblock2 .mat-card-subtitle {
+        width: 340px;}
+
+    .compaffiliates_newadblock1 .mat-card-subtitle {
+        width: 400px;}
+
+}
+
+@media only screen and (max-width: 1260px) {
+    .services_banner {
+        background-position: -350px top;
+    }
+}
+
+
+@media only screen and (max-width: 1240px) {
+    .home_block7_wrapper{ width: 1180px;}
+    .home_block7_wrapper ul li{ width: 293px; }
+
+    .services_banner {
+        background-position: -380px top;
+    }
+
+    .services_block1_wrapper{ width:94%;}
+
+    .services_block1_wrapper .mat-card-subtitle {
+        width: 500px;}
+
+    .blockchainnewbtext{ width: 90%;}
+}
+
+@media only screen and (max-width: 1199px) {
+
+    .services_banner_wrapper{ padding-top:0px!important;}
+
+    .contact_banner_wrapper{padding-top:0px!important;}
+
+
+
+    .asimgwrapper {
+        text-align: center;
+        position: relative;
+
+    }
+    .ascontainerrow{ margin-bottom: 0px!important;}
+
+    .ascontainerrow1 { margin-bottom: 20px!important;}
+    .ascontainerrow1 h3{ margin-bottom: 30px!important;}
+
+    .asblockchainblock2newad .as_textwrapper{ width: 100%;}
+
+    .as_bannermainwrapper.as_compaffibannermainwrapper {
+        background-position: right top!important;
+        background-size: 150%!important;
+        padding-top: 46%!important;
+    }
+
+    .as_bannermainwrapper{
+        background-position: right top!important;
+        background-size: 150%!important;
+        padding-top: 46%!important;
+    }
+
+
+    .compaffiliates_text_wrapper{/* width: auto; height: auto; display:block!important; text-align: center;*/  background: rgba(0, 0, 0, 0.5);}
+    /*
+        .compaffiliates_newadblock1 .mat-card-subtitle { width: auto; padding: 15px;}
+        .compaffiliates_newadblock2 .mat-card-subtitle {  width: auto; padding: 15px;}
+        .compaffiliates_newadblock3 .mat-card-subtitle {  width: auto; padding: 15px;  float: none;  }
+        .compaffiliates_newadblock4 .mat-card-subtitle { width: auto; padding: 15px;  float: none; }*/
+
+
+    .compaffiliates_newadblock1{ width: auto; display: block; height:auto; float: none; background-position: right top;  }
+    .compaffiliates_newadblock2{width: auto; display: block; height:auto; float: none; background-position: right top;}
+    .compaffiliates_newadblock3{width: auto; display: block; height:auto; float: none; background-position: left top;}
+    .compaffiliates_newadblock4{width: auto; display: block; height:auto; float: none; background-position: right top;}
+
+    .compaffiliates_newadblock3 p,.compaffiliates_newadblock3  strong{ color: #fff;}
+
+
+    .as_textwrappernew  {
+        text-align: center; padding-top: 5px;
+    }
+
+    .asblockchainblock2 .as_textwrapper{ width: 100%; display: block; margin-left: auto; margin-right: auto;}
+
+    .ourteambannermain{  background-position: center top;   height: auto;  background-size: 168%; padding-top: 46%;}
+
+
+    .ourteambannermainwrapper{ width: 100%; margin: 0 auto; display: block; height: auto; }
+
+    .ourteambanner_textwrapper{   display: block!important;  position: inherit; left: 0; bottom: 0px;     background: #156321;
+        padding: 25px; box-shadow: none!important;}
+
+    .ourteambanner_textwrapper_con{ padding: 25px;}
+
+    .ourteambanner_textwrapper_con h2 br{ display: none; }
+
+    .top_header{   padding:0 20px;}
+
+    .home_banner {
+        background-position: center top; height: auto; background-size: 100%; padding-top: 46%;
+    }
+
+    .home_banner_wrapper{ width:auto;}
+
+    .home_banner mat-card-subtitle{ height:auto;   display: block; width:auto; background: #156321; padding: 25px;  }
+
+    .home_banner mat-card-subtitle mat-card-content{  width: auto; padding:25px; margin-left:0; padding-bottom: 30px; }
+
+    .home_banner button{ float: none; margin-left: auto; margin-right: auto;  margin-top: 15px;}
+
+    .home_banner h3 br{ display: none;}
+
+    .home_block2_wrapper{ width: 94%; text-align: center;}
+
+    .home_block2_left{ width: 100%; float: none;  }
+
+
+    .home_block2_right{width: 100%; float: none;  margin-top: 35px!important;   }
+
+    .home_block2_right img{ width: auto; max-width: 100%;}
+
+
+    .home_block3_wrapper{ width: 74%; background-size: 80%;}
+
+    .compaffiliates_video_wrapper{ width: 74%; background-size: 80%;}
+
+    .home_block6 .home_block6_con1{ width: auto; height: auto; float: none; display:block; padding:30px 15px; text-align: center;}
+    .home_block6 .home_block6_conright{ width: auto; height: auto; float: none; display:block;}
+
+    .home_block6_con2_wrapper{ width: auto; height:auto; display:block; padding:30px 15px; text-align: center;}
+    .home_block6_con3_wrapper{ width: auto; height:auto; display:block; padding:30px 15px; text-align: center;}
+
+    .home_block6_con1_wrapper{ height: auto;}
+
+    .home_block6_con1_wrapper img{   margin-bottom: 15px;}
+
+    .home_block6_con2{ height: auto; padding: 0px;}
+    .home_block6_con3{ height: auto; padding: 0px;}
+
+
+    .home_block7_wrapper{ width: 790px; }
+    .home_block7_wrapper ul li{  width: 393px; height: 500px;   }
+
+
+    .contact_banner_wrapper{ width: 100%;  }
+
+    .contact_banner{ background-position: right top; height: auto; background-size: 158%; padding-top: 46%;}
+
+    .contact_banner_wrapper mat-card-subtitle{ height:auto;   display: block; width:auto; background: #156321; padding: 25px; text-align: center; margin-top: 0px!important;  }
+
+    .contact_banner_wrapper mat-card-subtitle mat-card-content h2 br{ display: none;}
+
+    .contact_banner_wrapper mat-card-subtitle mat-card-content{ padding: 25px;}
+
+
+    .contact_formblock_wrapper{ width: 94%;}
+
+
+    .services_banner_wrapper{ width: 100%;  }
+
+    .services_banner{ background-position: right top; height: auto; background-size: 182%; padding-top: 46%;}
+
+    .services_banner_wrapper mat-card-subtitle{ height:auto;   display: block; width:auto; background: #156321; padding: 25px; text-align: center; margin-top: 0px;  }
+
+    .services_banner_wrapper mat-card-subtitle mat-card-content h2 br{ display: none;}
+
+    .services_banner_wrapper mat-card-subtitle mat-card-content{ padding: 25px;}
+
+
+    .services_block1_wrapper h3{ width: 100%;}
+
+    .services_block1_wrapper .mat-card-subtitle{ width: 100%; float: none; text-align: center; display: block;}
+
+    .services_block1_wrapper img{ display: block; float: none;  width: auto; max-width: 100%; margin-left:  auto; margin-right: auto; margin-top: 50px;}
+
+    .services_block2_wrapper{width: 94%; }
+
+    .services_block3_wrapper{ width: 94%;}
+
+    .services_block4_wrapper{ width: 94%;}
+
+    .services_block4_wrapper ul li{  margin: 0 12px; margin-top: 20px; }
+    .services_block4_wrapper ul li:nth-of-type(2){ margin: 0 12px; margin-top: 20px;}
+
+}
+
+@media only screen and (max-width: 991px) {
+
+
+
+
+    .asblockchainblock2 {
+        margin: 39px 0 0px 0!important;
+    }
+
+    .contact_formblock{ margin: 38px auto!important;}
+
+    .ourteamusercontainer { margin-bottom: 0px!important;}
+
+    .asblockchainblock3.as_ourteamwrapper3{ padding-top: 40px!important;}
+
+
+    .services_block3_wrapper{margin:35px auto!important;   }
+    .services_block4_wrapper{margin:35px auto!important;   }
+
+    .services_block1_wrapper{   margin:40px auto!important;   }
+
+    .asblockchainblock2newad { margin: 40px auto!important;  }
+
+    .services_block2_wrapper{  margin: 40px auto!important;    }
+
+    .home_block2{    padding: 40px 0;}
+    .home_block3{    padding: 40px 0;}
+
+    .home_block4 { padding: 40px 0 15px 0;  }
+
+    .home_block5{ padding: 40px 15px;}
+    .home_block7{ padding: 40px 0;}
+
+    .asbuttonmainwrapper{ margin-top: 25px;}
+
+    .top_header{   padding:0px;}
+
+    .top_header .top_logo{ width: auto; float: none; padding:0 15px; display: block; margin-bottom: 10px!important;}
+
+    .top_header .top_logo img{  width: auto; display: block; margin: 0 auto; max-width: 100%;}
+
+    .top_header .top_menu{ width: 100%; float: none;     padding-top: 0px;  margin-bottom: 0px!important;}
+
+    .top_menu li{ margin: 0px; float: none; border-bottom: solid 1px #0d5816; text-align: center;}
+    /*.top_menu li:last-of-type{ border: none;}*/
+
+    .top_menu ul{ background: #d7e2da;}
+
+    .top_menu li button{  border: none;  width: 100%;}
+
+    .top_menu li button:hover{  border: none;}
+
+    .top_menu li button:visited{ border: none;}
+    .top_menu li button:focus{ border: none; }
+
+    .top_menu li button{ text-align: center;}
+
+    .dropdownmenu{ border: none!important;}
+
+    .dropdownmenu button{ border-left: none!important; border-right: none!important; border-bottom: none!important;  background: #c2d7c6!important; width: auto; display: block;}
+
+    .top_menu li .submenu{ position: relative; padding-right: 0px;}
+
+    .top_menu li .submenu .material-icons{ margin: 0 0 0 5px; float: none;  position: absolute;
+        top:10px; }
+
+    .top_menu li .submenu  span{ display: inline-block; float: none;}
+
+    .home_block3_wrapper{  width: auto; display: block; background: #035211;  padding: 15px; margin: 25px 15px 0 15px; }
+    .compaffiliates_video_wrapper{ width: auto; display: block; background: #035211;  padding: 15px; margin: 25px 15px 0 15px!important;  }
+
+    .home_block5 h3 br{ display: none;}
+
+    .services_block2_wrapper p{ width: 100%;}
+
+    .asblockchainblock2margin{ margin-bottom: 20px!important;}
+
+
+
+}
+
+
+@media only screen and (max-width: 940px) {
+
+    .services_banner { background-size: 195%;  }
+
+}
+
+
+
+@media only screen and (max-width: 880px) {
+
+    .compaffiliates_newadblock3{ background-position: -70px top;}
+
+}
+
+@media only screen and (max-width: 820px) {
+
+    .home_block7_wrapper{ width: 96%; margin-left:  auto; margin-right: auto; }
+    .home_block7_wrapper ul li{  width: auto; height:auto; float: none; margin: 0 auto;   }
+    .home_block7_footer{ position: inherit; bottom: 0; padding-bottom: 18px; padding-top: 18px;}
+}
+
+@media only screen and (max-width: 767px) {
+
+    .as_bannermainwrapper.as_compaffibannermainwrapper {
+        background-position: right top!important;
+        background-size: 210%!important;
+        padding-top: 64%!important;
+    }
+
+    .as_bannermainwrapper{
+        background-position: right top!important;
+        background-size: 210%!important;
+        padding-top: 64%!important;
+    }
+
+
+    .compaffiliates_newadblock3{ background-position: -170px top;}
+
+    .ourteambannermain {
+        background-position: center top;
+        height: auto;
+        background-size: 280%;
+        padding-top: 84%;
+    }
+
+    .home_banner {
+        background-size: 180%; padding-top: 84%; background-position: 6% top;
+    }
+
+    .home_block6_con2_wrapper h2 { font-size: 56px;}
+    .home_block6_con3_wrapper h2 { font-size: 56px;}
+
+
+    .contact_banner{  background-size: 190%; padding-top:56%;}
+
+    .services_banner{  background-size: 225%; padding-top:56%;}
+}
+
+@media only screen and (max-width: 730px) {
+
+    .services_banner{  background-size: 240%; padding-top:56%;}
+}
+
+
+@media only screen and (max-width: 660px) {
+
+    .compaffiliates_newadblock1 .mat-card-subtitle { width: auto; padding: 15px; text-align: center;}
+    .compaffiliates_newadblock2 .mat-card-subtitle {  width: auto; padding: 15px;  text-align: center;}
+    .compaffiliates_newadblock3 .mat-card-subtitle {  width: auto; padding: 15px;  float: none; text-align: center;  }
+    .compaffiliates_newadblock4 .mat-card-subtitle { width: auto; padding: 15px;  float: none;  text-align: center;}
+
+}
+
+@media only screen and (max-width: 640px) {
+
+
+    .services_block2_wrapper ul li{ width: 33.1%!important;}
+}
+
+@media only screen and (max-width: 540px) {
+    .home_banner h2{ font-size: 35px;}
+
+    .home_block2_wrapper h2{ font-size: 35px;}
+
+    .home_block3 h2{ font-size: 35px;}
+    .home_block4 h2{ font-size: 35px;}
+    .home_block5 h2{ font-size: 35px;}
+    .home_block6_con2_wrapper h2 { font-size: 35px;}
+    .home_block6_con3_wrapper h2 { font-size: 35px;}
+
+    .home_block7 h2{ font-size: 35px;}
+
+    .contact_formblock_wrapper h2{ font-size: 35px;}
+
+    .services_block1_wrapper h2{ font-size: 35px;}
+
+    .services_block2_wrapper h2{ font-size: 35px;}
+
+    .services_block3_wrapper h2{ font-size: 35px;}
+
+    .services_block4_wrapper h2{ font-size: 35px;}
+    .services_block4_wrapper ul li img{ width: auto; max-width: 100%;}
+
+
+    .as_compaffiwrapper3 .as_textwrapper h1{ font-size: 35px; }
+
+    .as_compaffiwrapper3 .as_textwrapper h1 span{ font-size: 26px; line-height: 26px;}
+
+
+    .services_banner {
+        background-size: 270%;
+        padding-top: 56%;
+        background-position: 89% top;
+    }
+}
+
+
+@media only screen and (max-width: 420px) {
+
+    .contact_formblock_wrapper .mat-card-subtitle:nth-of-type(1) .mat-form-field{ display: block; width: 100%; float: none;}
+
+    .contact_formblock_wrapper .mat-card-subtitle:nth-of-type(1) .mat-form-field:nth-of-type(2){ float: none;}
+
+
+    .contact_formblock_wrapper .mat-card-subtitle:nth-of-type(2) .mat-card-content{ display: block; width: 100%; float: none;}
+
+    .contact_formblock_wrapper .mat-card-subtitle:nth-of-type(2) .mat-card-content:nth-of-type(2){ float: none;}
+
+
+    .as_compaffibannermainwrapper .as_textwrapper h2 { font-size: 28px;}
+
+
+    .services_banner {
+        background-size: 290%;
+    }
+}
+
+
+
+/*-------------- start avijit media css ---------------*/
+@media screen and (max-width : 1560px){
+    .as_bannermainwrapper.as_ourteambannermainwrapper .as_bannertextmainwrapper {
+        margin-left: 0;
+        width: auto;
+    }
+    .as_bannermainwrapper .as_bannertextmainwrapper {margin-left: 90px; width: auto;}
+}
+
+@media screen and (max-width : 1310px) {
+    .home_block2_left p br {
+        display: none;
+    }
+}
+
+@media screen and (max-width : 1280px){
+    .as_compaffiwrapper5 .as_textwrapper {width: 98%;}
+    .as_compaffiwrapper3 .as_textwrapper {width: 98%;}
+}
+@media screen and (max-width : 1130px){
+    .as_ourteamwrapper3 .ourteamuserlistmainwrapper {width: 44%;}
+}
+@media screen and (max-width : 1199px){
+    .asblockchainblock3 .as_textwrapper h3 br{ display: none;}
+    .asblockchainblock2 .as_textwrapper h3 br{ display: none;}
+
+    .home_block4_wrapper h3 br{ display: none;}
+    .home_block2_wrapper h3 br{ display: none; }
+    .home_block2_left p br{ display: none; }
+
+    .home_block2_left button{ margin-top: 35px;}
+
+    .as_ourteamwrapper3 .ourteamuserlistmainwrapper{ width: 44%;}
+    .as_bannermainwrapper.as_compaffibannermainwrapper .as_bannertextmainwrapper {padding-left: 0px;}
+    .as_bannermainwrapper.as_ourteambannermainwrapper {background-position: center top; background-size: 108%; padding-top: 33%;}
+    .as_bannermainwrapper.as_ourteambannermainwrapper .as_bannertextmainwrapper {margin-top: 0;}
+    .ascontainerrow:nth-child(even) .col_container .as_textwrapper {
+        margin-left: 0;
+    }
+    .as_bannermainwrapper .as_bannertextmainwrapper {margin-left: 0px; width: auto;}
+    .as_bannermainwrapper {
+        background-size: 168%;
+        min-height: inherit !important;
+        background-position: right top;
+        padding-top: 52%;
+        background-color: #166727;
+        justify-content: inherit;
+        align-items: inherit;
+    }
+    .as_bannermainwrapper .as_bannertextmainwrapper:before{display: none;}
+    .as_bannermainwrapper .as_bannertextmainwrapper {text-align: center;}
+    .as_bannermainwrapper .as_textwrapper {    width: auto;margin: 0px 0px;border: 20px solid #166727;}
+    .col_container1 {width: 100%; text-align: center;}
+    .col_container2 {width: 100%; text-align: center;}
+    .asblockchainblock5containerwrapper .col_container .asimgwrapper img{
+        padding: 20px;
+        background-color: #166727;
+    }
+    .asblockchainblock5containerwrapper .col_container .asimgwrapper:before{display: none;}
+    .ascontainerrow {padding: 10px 0px !important;}
+    .ascontainerrow2 .col_container .asimgwrapper {
+        padding-left: 0;
+        margin: 0;
+    }
+    .asblockchainblock5 .as_textwrapper p {
+        padding-top: 20px;
+        text-align: center;
+    }
+    .ascontainerrow2 .col_container .as_textwrapper {
+        margin-left: 0;
+    }
+    .col_container .as_textwrapper {
+        border-left: none;
+        padding-left: 0;
+    }
+}
+@media screen and (max-width : 1080px){
+    .asblockchainblock2 .asimgwrapper {
+        padding: 0px 111px;
+    }
+    .as_bannermainwrapper .as_textwrapper {padding: 20px;}
+
+}
+
+
+@media screen and (max-width : 991px){
+    .asblockchainblock3margin h3{ padding-top: 15px!important;}
+    .services_block1_wrapper  .mat-card-subtitle{ margin-top: 30px!important;}
+
+
+    .asgallerytextwrapper h2{ font-size: 24px; }
+    .asgallerytextwrapper h2 span{font-size: 14px; line-height: 18px; }
+
+    .as_ourteamwrapper3 .profileimgwrapper{ display: block; margin-left: auto!important; margin-right: auto!important;}
+    .compaffiwrapper5_aslistcontainent .as_compaffimgcontent .asimgwrapper {height: 383px;}
+    .as_ourteamwrapper2 .ourteamuserlistwrapper .asimgwrapper {float: none; margin: 0 auto!important;}
+    .ourteamuserlistwrapper {text-align: center; padding: 20px !important;}
+    .ourteamuserlistmainwrapper:before {width: 100%; height: 100%;}
+    .ourteamuserlistmainwrapper{padding: 20px !important;}
+    .ourteamuserlistmainwrapper:nth-child(even){padding: 20px !important;}
+    .profileimgwrapper {
+        float: none;
+        margin: 0 auto;
+    }
+    .ourteamuserlistwrapper {height: auto;}
+    .as_ourteamwrapper3 .ourteamuserlistwrapper {padding: 24px !important;}
+    .as_ourteamwrapper3 .ourteamuserlistmainwrapper:before {bottom: 0 !important;}
+    .as_ourteamwrapper3 .ourteamuserlistmainwrapper:nth-child(even) {padding: 20px !important;}
+
+    .ourteamuserlistwrapper h3 {margin-top: 15px;}
+    .asbuttonmainwrapper mat-list mat-list-item {width: 29% !important;}
+
+    .asblockchainblock3 .as_textwrapper h3 {padding: 0;}
+    .asblockchainblock{display: flex !important; justify-content: center; width: 100%; padding: 40px 0px 25px 0 !important; flex-wrap: wrap;}
+
+
+    .asblockchainblock5new{ padding-bottom: 40px!important;}
+    .asblockchainblock2 {padding-bottom: 92px !important;}
+    .as_ourteamwrapper3 .ourteamuserlistmainwrapper {
+        width: 100%;
+    }
+
+    .asblockchainblock3.as_ourteamwrapper3 .as_textwrapper h1 {
+        margin-bottom: 20px;
+    }
+
+    .asblockchainblock3.as_ourteamwrapper3 { padding-bottom: 0px!important;}
+
+    .asblockchainblock3margin{ padding-bottom: 50px!important;}
+    .asblockchainblock3 .as_textwrapper {
+        padding-bottom: 20px!important;
+    }
+}
+@media screen and (max-width : 941px) {
+
+    .asblockchainblock2{ margin: 40px 0 20px 0!important;}
+    .asblockchainblock2 .as_textwrapper h3{ padding-bottom: 0px;}
+    .asblockchainblock2 {padding-bottom: 0px !important;}
+    .asblockchainblock2 .asimgwrapper {
+        padding: 0px 0;
+        background: #166727;
+        padding: 20px;
+    }
+    .compaffiwrapper5_aslistcontainent .as_compaffimgcontent {width: 29%;}
+
+    .asblockchainblock2 .asimgwrapper:before {
+        display: none;
+    }
+
+    .as_ourteamwrapper2{ margin-bottom: 0px!important; margin-top: 40px!important; }
+
+    .asblockchainblock2.as_ourteamwrapper2{padding: 0px!important; padding-bottom: 20px!important;}
+
+    .asblockchainblock2margin { padding-bottom: 30px!important;}
+    .asblockchainblock2margin h3{ padding-bottom: 30px!important;}
+}
+@media screen and (max-width : 890px){
+    .compaffiwrapper5_aslistcontainent .as_compaffimgcontent .asimgwrapper {
+        height: 342px;
+    }
+}
+@media screen and (max-width : 771px){
+    .compaffiwrapper5_aslistcontainent .as_compaffimgcontent .asimgwrapper {
+        height: 301px;
+    }
+}
+@media screen and (max-width : 767px){
+    .compaffiwrapper5_aslistcontainent .as_compaffimgcontent {width: 44%;}
+    .compaffiwrapper5_aslistcontainent .as_compaffimgcontent .asimgwrapper {height: 407px;}
+    .as_bannermainwrapper.as_ourteambannermainwrapper {
+        background-size: 223%;
+        padding-top: 69%;
+    }
+    .asbuttonmainwrapper mat-list mat-list-item {
+        width: 45% !important;
+    }
+    .as_textwrapper p strong {font-size: 20px;}
+    .asblockchainblock5 .as_textwrapper p {padding-top: 10px;}
+    .asbuttonmainwrapper {padding: 15px;}
+}
+@media screen and (max-width : 640px){
+    .compaffiwrapper5_aslistcontainent .as_compaffimgcontent .asimgwrapper {
+        height: 341px;
+    }
+}
+
+
+@media screen and (max-width : 590px){
+    .asbuttonmainwrapper mat-list mat-list-item {
+        width: 44% !important;
+    }
+}
+
+@media screen and (max-width : 580px){
+    .ourteamuserlistmainwrapper{padding: 20px !important;}
+    .as_ourteamwrapper3 .ourteamuserlistmainwrapper:nth-child(even) {padding: 20px !important;}
+    .as_ourteamwrapper3 .ourteamuserlistmainwrapper {margin-bottom: 36px !important;}
+    .asblockchainblock5 .col_container .asimgwrapper {padding: 15px;}
+    .asblockchainblock5 .col_container .asimgwrapper{width: auto; padding: 20px!important; background: #166727; overflow: hidden;}
+    .asblockchainblock5containerwrapper .col_container .asimgwrapper img {
+        padding: 0;
+        background-color: transparent;
+    }
+
+    .compaffiwrapper5_aslistcontainent .as_compaffimgcontent .asimgwrapper{ margin: 10px 0!important;}
+}
+
+@media screen and (max-width : 540px){
+    .as_textwrapper h1{ font-size: 35px;}
+    .compaffiwrapper5_aslistcontainent .as_compaffimgcontent .asimgwrapper {height: 287px;}
+    .compaffiwrapper5_aslistcontainent .as_compaffimgcontent {width: 44%; padding: 2px 9px;}
+}
+@media screen and (max-width : 520px){
+    .asbuttonmainwrapper mat-list mat-list-item {
+        width: 100% !important;
+    }
+}
+@media screen and (max-width : 480px){
+    .compaffiwrapper5_aslistcontainent .as_compaffimgcontent {width: 100%;}
+    .compaffiwrapper5_aslistcontainent .as_compaffimgcontent .asimgwrapper {height: 552px;}
+
+    .home_banner mat-card-subtitle mat-card-content {
+        width: auto;
+        padding: 14px; padding-bottom: 20px;}
+}
+@media screen and (max-width : 380px){
+    .as_textwrapper h1 {
+        font-size: 30px;
+    }
+    .compaffiwrapper5_aslistcontainent .as_compaffimgcontent .asimgwrapper {
+        height: 450px;
+    }
+
+}
+@media screen and (max-width : 1260px){
+    .ascontainer {width: 94%; margin-left:  auto!important; margin-right: auto!important;}
+}
+/*-------------- end avijit media css ---------------*/

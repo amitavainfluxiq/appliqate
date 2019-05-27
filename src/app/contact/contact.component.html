@@ -1,0 +1,102 @@
+<app-header></app-header>
+
+<mat-card-content class="contact_banner">
+
+  <mat-card-content class="contact_banner_wrapper">
+
+    <mat-card-subtitle>
+
+      <mat-card-content>
+        <h2>Your feedback and concerns are important to us!</h2>
+        <h3>Fill out the form below with a detailed description and we will get back to you as soon as possible.
+        </h3>
+
+
+      </mat-card-content>
+
+
+    </mat-card-subtitle>
+  </mat-card-content>
+
+
+</mat-card-content>
+
+
+<mat-card-content class="contact_formblock">
+
+  <mat-card-content class="contact_formblock_wrapper">
+
+  <h2>The Appliqate Team</h2>
+
+    <form [formGroup]="myform" (submit)="doSubmit()">
+
+
+
+      <mat-card-subtitle>
+        <mat-card-title>Contact Name</mat-card-title>
+      <mat-form-field>
+      <input matInput placeholder="First Name"  [formControl]="myform.controls['fname']" (blur)="inputUntouch(myform,'fname')">
+        <span  *ngIf="!myform.controls['fname'].valid && myform.controls['fname'].touched" class="errortext">First Name is required</span>
+      </mat-form-field>
+
+      <mat-form-field>
+      <input matInput placeholder="Last Name" [formControl]="myform.controls['lname']">
+        <span  *ngIf="!myform.controls['lname'].valid && myform.controls['lname'].touched " class="errortext">Last Name is required</span>
+
+      </mat-form-field>
+      </mat-card-subtitle>
+
+
+      <mat-card-subtitle>
+
+        <mat-card-content>
+          <mat-card-title>Email</mat-card-title>
+        <mat-form-field>
+          <input matInput placeholder="Email" [formControl]="myform.controls['email']" (blur)="inputUntouch(myform,'email')">
+          <span  *ngIf="!myform.controls['email'].valid && myform.controls['email'].touched " class="errortext">Email is required</span>
+
+        </mat-form-field>
+
+
+        </mat-card-content>
+
+        <mat-card-content>
+          <mat-card-title>Phone Number</mat-card-title>
+          <mat-form-field>
+            <input matInput placeholder="Phone Number" [formControl]="myform.controls['pnumber']">
+            <span  *ngIf="!myform.controls['pnumber'].valid && myform.controls['pnumber'].touched" class="errortext">Phone Number is required</span>
+
+          </mat-form-field>
+
+
+        </mat-card-content>
+
+      </mat-card-subtitle>
+
+
+      <mat-card-subtitle>
+        <mat-card-title>Subject</mat-card-title>
+        <mat-form-field>
+          <input matInput placeholder="Subject"  [formControl]="myform.controls['subfild']">
+          <span  *ngIf="!myform.controls['subfild'].valid && myform.controls['subfild'].touched" class="errortext">Subject is required</span>
+        </mat-form-field>
+
+      </mat-card-subtitle>
+
+      <mat-card-subtitle>
+        <mat-card-title>Message</mat-card-title>
+        <mat-form-field>
+          <textarea matInput placeholder="Message"  [formControl]="myform.controls['description']" (blur)="inputUntouch(myform,'description')"></textarea>
+          <span  *ngIf="!myform.controls['description'].valid && myform.controls['description'].touched" class="errortext">Message is required</span>
+        </mat-form-field>
+
+      </mat-card-subtitle>
+
+
+    <button mat-button class="consubbtn">Submit</button>
+
+    </form>
+</mat-card-content>
+</mat-card-content>
+
+<app-footer></app-footer>

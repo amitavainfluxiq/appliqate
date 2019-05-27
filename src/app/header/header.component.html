@@ -1,0 +1,45 @@
+<mat-card-header class="top_header">
+
+  <mat-card-content class="top_logo" [routerLink]="['/']" ><img src="../../assets/images/logo.jpg"></mat-card-content>
+
+  <mat-card-content class="top_menu">
+
+
+    <label for="show-mainmenu" class="show-menu"><i class="material-icons">dehaze</i></label>
+    <input type="checkbox" id="show-mainmenu" role="button">
+    <ul class="mainmenu">
+      <li [ngClass]="router.url === '/' ? 'active' : ''"><button mat-menu-item base  [routerLink]="['/']">HOME</button></li>
+      <li [ngClass]="router.url === '/blockchain' || router.url === '/compaffiliates' ? 'active' : ''">
+
+        <button mat-menu-item class="submenu"><span>Core Technologies</span> <i class="material-icons">keyboard_arrow_down </i></button>
+
+        <ul class="hidden">
+
+          <li class="dropdownmenu" [ngClass]="router.url === '/blockchain' ? 'active' : ''"> <button mat-menu-item [routerLink]="['/blockchain']">BLOCKCHAIN</button></li>
+          <li class="dropdownmenu" [ngClass]="router.url === '/compaffiliates' ? 'active' : ''"> <button mat-menu-item [routerLink]="['/compaffiliates']">COMPAFFILIATES</button></li>
+        </ul>
+      </li>
+
+      <li [ngClass]="router.url === '/services' ? 'active' : ''"><button mat-menu-item [routerLink]="['/services']">SERVICES</button></li>
+     <!-- <li [ngClass]="router.url === '/ourteam' ? 'active' : ''"><button mat-menu-item [routerLink]="['/ourteam']">OUR TEAM  </button></li>-->
+
+      <li><button mat-button (click)="openDialog()">OUR TEAM</button></li>
+
+      <li [ngClass]="router.url === '/contact' ? 'active' : ''"><button mat-menu-item [routerLink]="['/contact']">CONTACT US</button></li>
+
+
+    </ul>
+
+
+
+
+
+
+
+
+  </mat-card-content>
+
+    <mat-card-content class="top_headerclear"></mat-card-content>
+
+
+</mat-card-header>
