@@ -16,6 +16,7 @@ import { CompaffiliatesComponent } from './compaffiliates/compaffiliates.compone
 import { BlockchainComponent } from './blockchain/blockchain.component';
 import { OurteamComponent } from './ourteam/ourteam.component';
 import { OurteampopupComponent } from './ourteampopup/ourteampopup.component';
+import { SubmitpopupComponent } from './submitpopup/submitpopup.component';
 
 
 
@@ -30,7 +31,8 @@ import { OurteampopupComponent } from './ourteampopup/ourteampopup.component';
     CompaffiliatesComponent,
     BlockchainComponent,
     OurteamComponent,
-    OurteampopupComponent
+    OurteampopupComponent,
+    SubmitpopupComponent
 
 
   ],
@@ -44,7 +46,8 @@ import { OurteampopupComponent } from './ourteampopup/ourteampopup.component';
     HttpClientModule,
   ],
   entryComponents: [
-    OurteampopupComponent
+    OurteampopupComponent,
+    SubmitpopupComponent
   ],
   providers: [],
   bootstrap: [AppComponent]
