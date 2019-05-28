@@ -630,7 +630,7 @@
     .home_block2_wrapper h3 br{ display: none; }
     .home_block2_left p br{ display: none; }
 
-    .home_block2_left button{ margin-top: 35px;}
+    .home_block2_left button{ margin-top: 35px; margin-bottom: 35px;}
 
     .as_ourteamwrapper3 .ourteamuserlistmainwrapper{ width: 44%;}
     .as_bannermainwrapper.as_compaffibannermainwrapper .as_bannertextmainwrapper {padding-left: 0px;}
