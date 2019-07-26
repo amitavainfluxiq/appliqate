@@ -18,6 +18,9 @@ import { OurteamComponent } from './ourteam/ourteam.component';
 import { OurteampopupComponent } from './ourteampopup/ourteampopup.component';
 import { SubmitpopupComponent } from './submitpopup/submitpopup.component';
 
+import { AboutusComponent } from './aboutus/aboutus.component';
+import { ContactusComponent } from './contactus/contactus.component';
+import { MetaModule } from '@ngx-meta/core';
 
 
 @NgModule({
@@ -32,9 +35,9 @@ import { SubmitpopupComponent } from './submitpopup/submitpopup.component';
     BlockchainComponent,
     OurteamComponent,
     OurteampopupComponent,
-    SubmitpopupComponent
-
-
+    SubmitpopupComponent,
+    AboutusComponent,
+    ContactusComponent
   ],
   imports: [
     DemoMaterialModule,
@@ -44,6 +47,8 @@ import { SubmitpopupComponent } from './submitpopup/submitpopup.component';
     ReactiveFormsModule,
     FormsModule,
     HttpClientModule,
+      BrowserModule.withServerTransition({ appId: 'serverApp' }),
+    AppRoutingModule,MetaModule.forRoot()
   ],
   entryComponents: [
     OurteampopupComponent,
