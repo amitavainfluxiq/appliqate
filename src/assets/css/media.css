@@ -224,6 +224,10 @@
 
 @media only screen and (max-width: 1199px) {
 
+    .home_block4_wrapper ul li{ width: 286px;}
+
+    .home_block4_wrapper ul li:hover mat-card-subtitle .mat-card-content{height: 299px;}
+
     .services_banner_wrapper{ padding-top:0px!important;}
 
     .contact_banner_wrapper{padding-top:0px!important;}
